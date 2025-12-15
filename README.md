@@ -1,1 +1,1 @@
-For a write-up describing this project, please refer to the following [Notion website]([url](https://abrupt-snapdragon-83b.notion.site/CPSC-4850-5850-Final-Project-Options-Pricing-2c94bfa4b794802e9529ecebc0f8e1da?source=copy_link)).
+For a write-up describing this project, please refer to the following [Notion website](https://abrupt-snapdragon-83b.notion.site/CPSC-4850-5850-Final-Project-Options-Pricing-2c94bfa4b794802e9529ecebc0f8e1da?source=copy_link).
